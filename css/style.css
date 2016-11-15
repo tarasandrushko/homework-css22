@@ -1,0 +1,169 @@
+@font-face {
+		font-family: 'bebasregular';
+		src: url('../fonts/BEBAS___-webfont.eot');
+		src: url('../fonts/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BEBAS___-webfont.woff') format('woff'),
+		url('../fonts/BEBAS___-webfont.ttf') format('truetype'),
+		url('../fonts/BEBAS___-webfont.svg#bebasregular') format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	.logo {
+		font-family: 'bebasregular', Arial, sans-serif;
+		font-size: 34px;
+
+	}
+	
+	
+	nav {
+	font-family: 'bebasregular', Arial , sans-serif;
+	font-size: 15px;
+	color: #b9b9b9;
+	float: right;
+    }
+    
+    ul li  {
+	display: inline-block;
+
+	text-decoration: none;
+	list-style-type: none;
+	padding-right: 0px;
+	padding-left: 15px;
+	padding-top: 15px;
+	}
+	li a{
+	color: #b9b9b9;
+	}
+	.float {
+		float:left;
+		margin-left: 110px;
+	}
+	.float1 {
+		float:left;
+		margin-left: 110px;
+
+	}
+	.anothercolor {
+		color: #FF9273;
+	}
+	.main {
+		margin-top: 20px;
+	}
+	.firstcolor {
+		color: #FF3900;
+	}
+	.container {
+		max-width: 940px;
+	}
+	.size {
+		font-size: 12px;
+	}
+	
+	.about {
+		font-family: 'bebasregular', Arial , sans-serif;
+		font-size: 20px;
+		background:  #ee6644;
+		height:60px;
+		margin:20px 0;
+		padding: 18px;
+		text-transform: uppercase;
+		color: #fff;
+		}
+	.letters {
+		
+		color: #ee6644;
+		margin-top: 15px;
+		padding: 10px;
+		padding-left: 10px;
+		padding-top: 10px;
+
+
+	}
+	.letters1 {
+		font-family: 'bebasregular', Arial , sans-serif;
+		color: #ee6644;
+		margin-top: 15px;
+		padding: 10px;
+		padding-left: 10px;
+		padding-top: 10px;
+		font-size: 17px;
+	}
+	.biglett{
+		font-family: 'bebasregular', Arial , sans-serif;
+		color: #ee6644;
+	}
+	.smletter{
+
+		color: #b9b9b9;
+
+	}
+
+	
+	.moving {
+			margin-bottom: 20px;
+		}
+	.immg{
+		font-family: Arial;
+		float:left;
+		margin-right:20px;
+		margin-bottom: 10px; 
+		margin-top: 10px;
+	}
+	.img1 {
+		float:left;
+	}
+	
+	.size2 {
+		font-size: 12px;
+		font-style: italic;
+	}
+	.bigletter {
+		font-family: 'bebasregular', Arial , sans-serif;
+		font-size: 40px;
+		float: left;
+		color: #FF7340;
+	}
+	.aboutjetro {
+		font-family: 'bebasregular', Arial , sans-serif;
+		font-size: 17px;
+		margin-bottom: 8px;
+		color: #FF3900;
+	
+	}
+	.img {
+		float:right;
+		margin-right: 14px;
+		margin-bottom: 10px;
+
+	}
+	
+	.space {
+		margin-bottom: 40px;
+	}
+	.somespace {
+		margin-bottom: 5px;
+	}
+	.footermain {
+		
+		font-size: 20px;
+		background:  #FF7340;
+		height: 300px;
+		margin: 20px 0;
+		padding: 28px;
+		
+		color: #fff;
+	}
+	.font {
+		font-family: 'bebasregular', Arial , sans-serif;
+		}
+	.mov {
+		margin-top: 10px;
+	}
+	.color2 {
+		color: rgba(255,255,255,.3);
+	}
+	.line {
+		margin-left: 200px;
+	}
+	
